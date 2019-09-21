@@ -29,3 +29,4 @@ obj/
 .Trashes
 ehthumbs.db
 Thumbs.db
+.vs/TowerDefenseGameUnity/v15/Server/sqlite3/db.lock
